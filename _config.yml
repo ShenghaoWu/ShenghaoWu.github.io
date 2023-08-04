@@ -11,9 +11,9 @@ title                    : "Shenghao Wu / Ph.D. student at CMU"
 title_separator          : "-"
 name                     : &name "Shenghao Wu"
 description              : &description "Ph.D. student in Neural computation and Machine Learning at CMU"
-url                      : https://shenghao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-#baseurl                  : "shenghao.github.io" # the subpath of your site, e.g. "/blog"
-repository               : "ShenghaoWu/shenghao.github.io"
+url                      : https://ShenghaoWu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#baseurl                  : "ShenghaoWu.github.io" # the subpath of your site, e.g. "/blog"
+repository               : "ShenghaoWu/ShenghaoWu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
