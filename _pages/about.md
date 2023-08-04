@@ -16,7 +16,7 @@ Education
 =======
 * Ph.D. in Neural Computation and Machine Learning, Carnegie Mellon University, 2018-2023 (expected in Dec)
  
-  <small>Thesis committee: Byron Yu, Matthew Smith, Brent Doiron, Chengcheng Huang, Robert Kass, Tatiana Engel <small>
+  <small>Thesis committee: Byron Yu, Matthew Smith, Brent Doiron, Chengcheng Huang, Robert Kass, Tatiana Engel </small>
 
 * B.A. in Mathematics-Statistics, Columbia University, 2015-2018
 
@@ -40,11 +40,11 @@ Journal Publications and preprints
 **_Keywords_**: Bayesian optimization, dimensionality reduction, spiking neural networks, brain-computer interface.
     
 * YASS: Yet Another Spike Sorter applied to large-scale multi-electrode array recordings in primate retina.  (In submission) [Paper](https://www.biorxiv.org/content/10.1101/2020.03.18.997924v1.full.pdf)  [Code](https://github.com/paninski-lab/yass)  
-</small> JinHyung Lee, Catalin Mitelut, Hooshmand Shokri, Ian Kinsella, Nishchal Dethe, **Shenghao Wu**, Kevin Li, Eduardo Blancas Reyes, Denis Turcu, Eleanor Batty, Young Joon Kim, Nora Brackbill, Alexandra Kling, Georges Goetz, E.J. Chichilnisky, David Carlson, Liam Paninski</small>   
+<small> JinHyung Lee, Catalin Mitelut, Hooshmand Shokri, Ian Kinsella, Nishchal Dethe, **Shenghao Wu**, Kevin Li, Eduardo Blancas Reyes, Denis Turcu, Eleanor Batty, Young Joon Kim, Nora Brackbill, Alexandra Kling, Georges Goetz, E.J. Chichilnisky, David Carlson, Liam Paninski</small>   
 **_Keywords_**: signal processing, convolutional neural networks, generative models, spike sorting.
     
 * Brainprints: identifying individuals from magnetoencephalograms. (Communications Biology 2022) [Paper](https://www.nature.com/articles/s42003-022-03727-9)  [Code](https://github.com/brainML/brainprint)  
-</small> **Shenghao Wu**, Aaditya Ramdas, Leila Wehbe</small>  
+<small> **Shenghao Wu**, Aaditya Ramdas, Leila Wehbe</small>  
 **_Keywords_**: neuroimaging, privacy, feature engineering, multi-modal recordings.
 
 
@@ -52,27 +52,27 @@ Conference Publications and presentations
 =======
 
 * Interpreting area-to-area differences in spiking variability using spiking network models. (Under review)  
-</small> **Shenghao Wu**, Adam Snyder, Chengcheng Huang, Matthew Smith, Byron Yu,  Brent Doiron</small>  
+<small> **Shenghao Wu**, Adam Snyder, Chengcheng Huang, Matthew Smith, Byron Yu,  Brent Doiron</small>  
 **_Keywords_**: deep neural emulators, mechanistic models.
 
 * Counterfactual Generative Models for Time-Varying Treatments.(Under review) [Paper](https://arxiv.org/abs/2305.15742)  
-</small>  **Shenghao Wu**, Wenbin Zhou, Minshuo Chen, Shixiang Zhu </small>  
+<small>  **Shenghao Wu**, Wenbin Zhou, Minshuo Chen, Shixiang Zhu </small>  
 **_Keywords_**: generative models, causal inference, time series, counterfactual prediction.
 
 
 * RLCG: When Reinforcement Learning Meets Coarse Graining. <small> (Neurips AI4Science Workshop 2022) [Paper](https://openreview.net/pdf?id=XD6BnJO7PW)  
-</small> **Shenghao Wu**, Tianyi Liu, Zhirui Wang, Wen Yan, Yingxiang Yang</small>  
+<small> **Shenghao Wu**, Tianyi Liu, Zhirui Wang, Wen Yan, Yingxiang Yang</small>  
 **_Keywords_**: graph neural networks, reinforcement learning, molecular dynamics.
 
 
 *  Automatic fitting of spiking network models to neuronal activity reveals limits of model flexibility. <small> (Computational and Systems Neuroscience, 2020) [Abstract](https://static1.squarespace.com/static/6102ca347474c263c40150cd/t/6108704a88f5b866f9ce845f/1627942988778/Cosyne2020_program_book.pdf)  
-</small> **Shenghao Wu**, Chengcheng Huang, Adam Snyder, Matthew Smith, Brent Doiron, Byron Yu</small> 
+<small> **Shenghao Wu**, Chengcheng Huang, Adam Snyder, Matthew Smith, Brent Doiron, Byron Yu</small> 
 
 
 *  Neural networks for sorting neurons. <small> (Computational and Systems Neuroscience, 2020) [Abstract](https://static1.squarespace.com/static/6102ca347474c263c40150cd/t/6108704a88f5b866f9ce845f/1627942988778/Cosyne2020_program_book.pdf)  
-</small>JinHyung Lee, Catalin Mitelut, Ian Kinsella, **Shenghao Wu**, Eleanor Batty, Liam Paninski, Hooshmand Shokri, Ari Pakman, Yueqi Wang, Nishchal Dethe, Kevin Li, Eduardo Blancas Reyes, Alexandra Tikidji-Hamburyan, Georges Goetz, Ej Chichilnisky, David Carlson</small> 
+<small>JinHyung Lee, Catalin Mitelut, Ian Kinsella, **Shenghao Wu**, Eleanor Batty, Liam Paninski, Hooshmand Shokri, Ari Pakman, Yueqi Wang, Nishchal Dethe, Kevin Li, Eduardo Blancas Reyes, Alexandra Tikidji-Hamburyan, Georges Goetz, Ej Chichilnisky, David Carlson</small> 
 
 
-* Riskalyzer: Inferring Individual Risk-Taking Propensity Using Phone Metadata. <small> (ACM Ubicomp 2018) [Paper](https://dl.acm.org/doi/pdf/10.1145/3191766?casa_token=es4j-OdP6bEAAAAA\%3AOn7mTUrFM2UADsbKA_kT4BlR9stK_1aYyhwC9gI401Cq7iaSr6Q7b5c8-if-PW09i6zXClWNrEM)  
-</small>Vivek Singh, Rushil Goyal, **Shenghao Wu**</small> 
+* Riskalyzer: Inferring Individual Risk-Taking Propensity Using Phone Metadata.  (ACM Ubicomp 2018) [Paper](https://dl.acm.org/doi/pdf/10.1145/3191766?casa_token=es4j-OdP6bEAAAAA\%3AOn7mTUrFM2UADsbKA_kT4BlR9stK_1aYyhwC9gI401Cq7iaSr6Q7b5c8-if-PW09i6zXClWNrEM)  
+<small>Vivek Singh, Rushil Goyal, **Shenghao Wu**</small> 
 
