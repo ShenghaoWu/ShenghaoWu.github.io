@@ -37,33 +37,32 @@ Journal Publications and preprints
 =======
 * Automated customization of large-scale spiking network models to neuronal population activity. (In submission)  
 <small>**Shenghao Wu**, Chengcheng Huang, Adam Snyder, Matthew Smith, Brent Doiron, Byron Yu </small>  
-Keywords: Bayesian optimization, dimensionality reduction, spiking neural networks, brain-computer interface.
+**_Keywords_**: Bayesian optimization, dimensionality reduction, spiking neural networks, brain-computer interface.
     
 * YASS: Yet Another Spike Sorter applied to large-scale multi-electrode array recordings in primate retina.  (In submission) [Paper](https://www.biorxiv.org/content/10.1101/2020.03.18.997924v1.full.pdf)  [Code](https://github.com/paninski-lab/yass)  
 </small> JinHyung Lee, Catalin Mitelut, Hooshmand Shokri, Ian Kinsella, Nishchal Dethe, **Shenghao Wu**, Kevin Li, Eduardo Blancas Reyes, Denis Turcu, Eleanor Batty, Young Joon Kim, Nora Brackbill, Alexandra Kling, Georges Goetz, E.J. Chichilnisky, David Carlson, Liam Paninski</small>   
-Keywords: signal processing, convolutional neural networks, generative models, spike sorting.
+**_Keywords_**: signal processing, convolutional neural networks, generative models, spike sorting.
     
 * Brainprints: identifying individuals from magnetoencephalograms. (Communications Biology 2022) [Paper](https://www.nature.com/articles/s42003-022-03727-9)  [Code](https://github.com/brainML/brainprint)  
 </small> **Shenghao Wu**, Aaditya Ramdas, Leila Wehbe</small>  
-Keywords: neuroimaging, privacy, feature engineering, multi-modal recordings.
+**_Keywords_**: neuroimaging, privacy, feature engineering, multi-modal recordings.
 
 
 Conference Publications and presentations
 =======
 
-* Interpreting area-to-area differences in spiking variability using spiking network models. (Under review)
+* Interpreting area-to-area differences in spiking variability using spiking network models. (Under review)  
 </small> **Shenghao Wu**, Adam Snyder, Chengcheng Huang, Matthew Smith, Byron Yu,  Brent Doiron</small>  
-Keywords: deep neural emulators, mechanistic models.
-
+**_Keywords_**: deep neural emulators, mechanistic models.
 
 * Counterfactual Generative Models for Time-Varying Treatments.(Under review) [Paper](https://arxiv.org/abs/2305.15742)  
 </small>  **Shenghao Wu**, Wenbin Zhou, Minshuo Chen, Shixiang Zhu </small>  
-Keywords: generative models, causal inference, time series, counterfactual prediction.
+**_Keywords_**: generative models, causal inference, time series, counterfactual prediction.
 
 
 * RLCG: When Reinforcement Learning Meets Coarse Graining. <small> (Neurips AI4Science Workshop 2022) [Paper](https://openreview.net/pdf?id=XD6BnJO7PW)  
 </small> **Shenghao Wu**, Tianyi Liu, Zhirui Wang, Wen Yan, Yingxiang Yang</small>  
-Keywords: graph neural networks, reinforcement learning, molecular dynamics.
+**_Keywords_**: graph neural networks, reinforcement learning, molecular dynamics.
 
 
 *  Automatic fitting of spiking network models to neuronal activity reveals limits of model flexibility. <small> (Computational and Systems Neuroscience, 2020) [Abstract](https://static1.squarespace.com/static/6102ca347474c263c40150cd/t/6108704a88f5b866f9ce845f/1627942988778/Cosyne2020_program_book.pdf)  
