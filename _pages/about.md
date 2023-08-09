@@ -52,7 +52,7 @@ _Keywords_: neuroimaging, privacy, feature engineering, multi-modal recordings.
 Conference Publications and presentations
 =======
 
-📄 Interpreting area-to-area differences in spiking variability using spiking network models. (Under review)  
+📄 Interpreting area-to-area differences in spiking variability using spiking network models. (Society for Neuroscience, 2023)  
 <small> **Shenghao Wu**, Adam Snyder, Chengcheng Huang, Matthew Smith, Byron Yu,  Brent Doiron</small>  
 _Keywords_: deep neural emulators, mechanistic models.
 
