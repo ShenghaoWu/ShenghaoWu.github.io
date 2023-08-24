@@ -77,5 +77,5 @@ _Keywords_: graph neural networks, reinforcement learning, molecular dynamics.
 Services
 =======
 
-**PC Member**: Neurips AI4Science Workshop (2023), KDD (2023), Brain Informatics (2023), ACAIN (2021, 2022, 2023)  
+**PC Member**: Neurips AI4Science Workshop (2023), Neurips Generative AI & Biology Workshop (2023),  KDD (2023), Brain Informatics (2023), ACAIN (2021, 2022, 2023)  
 **Journal Reviewer** : Information Fusion 
