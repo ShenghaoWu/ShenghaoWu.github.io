@@ -73,3 +73,9 @@ _Keywords_: graph neural networks, reinforcement learning, molecular dynamics.
 📄 Riskalyzer: Inferring Individual Risk-Taking Propensity Using Phone Metadata.  (ACM Ubicomp 2018) [Paper](https://dl.acm.org/doi/pdf/10.1145/3191766?casa_token=es4j-OdP6bEAAAAA\%3AOn7mTUrFM2UADsbKA_kT4BlR9stK_1aYyhwC9gI401Cq7iaSr6Q7b5c8-if-PW09i6zXClWNrEM)  
 <small>Vivek Singh, Rushil Goyal, **Shenghao Wu**</small> 
 
+
+Services
+=======
+
+**PC Member**: Neurips AI4Science Workshop (2023), KDD (2023), Brain Informatics (2023), ACAIN (2021, 2022, 2023)  
+**Journal Reviewer** : Information Fusion 
