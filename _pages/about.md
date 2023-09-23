@@ -36,7 +36,7 @@ My research interests lie at the intersection of machine learning and neuroscien
 Journal Publications and preprints
 =======
 
-📄 Automated customization of large-scale spiking network models to neuronal population activity. (In submission)  
+📄 Automated customization of large-scale spiking network models to neuronal population activity. (In submission)  [Paper](https://www.biorxiv.org/content/10.1101/2023.09.21.558920v1) 
 <small>**Shenghao Wu**, Chengcheng Huang, Adam Snyder, Matthew Smith, Brent Doiron, Byron Yu </small>  
 _Keywords_: Bayesian optimization, dimensionality reduction, spiking neural networks, brain-computer interface.
     
