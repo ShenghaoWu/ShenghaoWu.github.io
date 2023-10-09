@@ -52,13 +52,14 @@ _Keywords_: signal processing, convolutional neural networks, generative models,
 Conference Publications and presentations
 =======
 
+📄 Counterfactual Generative Models for Time-Varying Treatments. (Under review at ICLR 2024) [Paper](https://arxiv.org/abs/2305.15742)  
+<small>  **Shenghao Wu**, Wenbin Zhou, Minshuo Chen, Shixiang Zhu </small>  
+_Keywords_: generative models, causal inference, time series, counterfactual prediction.
+
 📄 Interpreting area-to-area differences in spiking variability using spiking network models. (Society for Neuroscience, 2023)  
 <small> **Shenghao Wu**, Adam Snyder, Chengcheng Huang, Matthew Smith, Byron Yu,  Brent Doiron</small>  
 _Keywords_: deep neural emulators, mechanistic models.
 
-📄 Counterfactual Generative Models for Time-Varying Treatments. (Under review) [Paper](https://arxiv.org/abs/2305.15742)  
-<small>  **Shenghao Wu**, Wenbin Zhou, Minshuo Chen, Shixiang Zhu </small>  
-_Keywords_: generative models, causal inference, time series, counterfactual prediction.
 
 📄 RLCG: When Reinforcement Learning Meets Coarse Graining. (Neurips AI4Science Workshop 2022) [Paper](https://openreview.net/pdf?id=XD6BnJO7PW)  
 <small> **Shenghao Wu**, Tianyi Liu, Zhirui Wang, Wen Yan, Yingxiang Yang</small>  
