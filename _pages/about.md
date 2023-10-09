@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th year Ph.D. student in the joint program between the [Neuroscience Institute](https://www.cmu.edu/ni/) 🧠  and the [Machine Learning Department](https://www.ml.cmu.edu/). I am fortunate to be advised by Prof. [Byron Yu](https://users.ece.cmu.edu/~byronyu/index.html), Prof. [Matthew Smith](https://smithlab.net/), and Prof. [Brent Doiron](https://brainmath.bsd.uchicago.edu/). My main research topic is machine learning algorithms for optimizing spiking network models to generate realistic neuronal activity. I have also worked with Prof. [Leila Wehbe](https://www.cs.cmu.edu/~lwehbe/publications.html) and Prof. [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas/) on individual identification and privacy in brain recordings, and Prof. [Woody Zhu](https://sites.google.com/view/woodyzhu/home?authuser=0) on generative models and causal inference. 
+I am a final year Ph.D. student in the joint program between the [Neuroscience Institute](https://www.cmu.edu/ni/) 🧠  and the [Machine Learning Department](https://www.ml.cmu.edu/). I am fortunate to be advised by Prof. [Byron Yu](https://users.ece.cmu.edu/~byronyu/index.html), Prof. [Matthew Smith](https://smithlab.net/), and Prof. [Brent Doiron](https://brainmath.bsd.uchicago.edu/). My main research topic is machine learning algorithms for optimizing spiking network models to generate realistic neuronal activity. I have also worked with Prof. [Leila Wehbe](https://www.cs.cmu.edu/~lwehbe/publications.html) and Prof. [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas/) on individual identification and privacy in brain recordings, and Prof. [Woody Zhu](https://sites.google.com/view/woodyzhu/home?authuser=0) on generative models and causal inference. 
 
 Before coming to CMU, I obtained a bachelor's degree in mathematics and statistics from Columbia University, where I worked with Prof. [Liam Paninski](http://www.stat.columbia.edu/~liam/) on a  [machine learning pipeline](https://github.com/paninski-lab/yass)  for neural signal processing. I have also spent two wonderful years in Hong Kong, where I studied computing mathematics at City University of Hong Kong, before enrolling in the  [joint bachelor's degree program](https://cityu-hk.gs.columbia.edu/) between CityU and Columbia.
 
@@ -36,18 +36,18 @@ My research interests lie at the intersection of machine learning and neuroscien
 Journal Publications and preprints
 =======
 
-📄 Automated customization of large-scale spiking network models to neuronal population activity. (In submission)  [Paper](https://www.biorxiv.org/content/10.1101/2023.09.21.558920v1)  
+📄 Automated customization of large-scale spiking network models to neuronal population activity. (Under review)  [Paper](https://www.biorxiv.org/content/10.1101/2023.09.21.558920v1)  
 <small>**Shenghao Wu**, Chengcheng Huang, Adam Snyder, Matthew Smith, Brent Doiron, Byron Yu </small>  
 _Keywords_: Bayesian optimization, dimensionality reduction, spiking neural networks, brain-computer interface.
     
-📄 YASS: Yet Another Spike Sorter applied to large-scale multi-electrode array recordings in primate retina.  (In submission) [Paper](https://www.biorxiv.org/content/10.1101/2020.03.18.997924v1.full.pdf)  [Code](https://github.com/paninski-lab/yass)  
-<small> JinHyung Lee, Catalin Mitelut, Hooshmand Shokri, Ian Kinsella, Nishchal Dethe, **Shenghao Wu**, Kevin Li, Eduardo Blancas Reyes, Denis Turcu, Eleanor Batty, Young Joon Kim, Nora Brackbill, Alexandra Kling, Georges Goetz, E.J. Chichilnisky, David Carlson, Liam Paninski</small>   
-_Keywords_: signal processing, convolutional neural networks, generative models, spike sorting.
     
 📄 Brainprints: identifying individuals from magnetoencephalograms. (Communications Biology 2022) [Paper](https://www.nature.com/articles/s42003-022-03727-9)  [Code](https://github.com/brainML/brainprint)  
 <small> **Shenghao Wu**, Aaditya Ramdas, Leila Wehbe</small>  
 _Keywords_: neuroimaging, privacy, feature engineering, multi-modal recordings.
 
+📄 YASS: Yet Another Spike Sorter applied to large-scale multi-electrode array recordings in primate retina.  (In submission) [Paper](https://www.biorxiv.org/content/10.1101/2020.03.18.997924v1.full.pdf)  [Code](https://github.com/paninski-lab/yass)  
+<small> JinHyung Lee, Catalin Mitelut, Hooshmand Shokri, Ian Kinsella, Nishchal Dethe, **Shenghao Wu**, Kevin Li, Eduardo Blancas Reyes, Denis Turcu, Eleanor Batty, Young Joon Kim, Nora Brackbill, Alexandra Kling, Georges Goetz, E.J. Chichilnisky, David Carlson, Liam Paninski</small>   
+_Keywords_: signal processing, convolutional neural networks, generative models, spike sorting.
 
 Conference Publications and presentations
 =======
