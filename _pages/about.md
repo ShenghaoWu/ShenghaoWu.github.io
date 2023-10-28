@@ -52,7 +52,7 @@ _Keywords_: signal processing, convolutional neural networks, generative models,
 Conference Publications and presentations
 =======
 
-📄 Counterfactual Generative Models for Time-Varying Treatments. (Under review at ICLR 2024) [Paper](https://arxiv.org/abs/2305.15742)  
+📄 Counterfactual Generative Models for Time-Varying Treatments. (Spotlight, Deep Generative Models for Health (DGM4H) Workshop at NeurIPS 2023; Full paper under review at ICLR 2024.) [Paper](https://arxiv.org/abs/2305.15742)  
 <small>  **Shenghao Wu**, Wenbin Zhou, Minshuo Chen, Shixiang Zhu </small>  
 _Keywords_: generative models, causal inference, time series, counterfactual prediction.
 
