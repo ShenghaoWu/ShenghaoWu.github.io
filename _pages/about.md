@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+[Update Dec 2023] I am now a research scientist on AI for Science at Tiktok (Bytedance).
 
-I am a final year Ph.D. student in the joint program between the [Neuroscience Institute](https://www.cmu.edu/ni/) 🧠  and the [Machine Learning Department](https://www.ml.cmu.edu/). I am fortunate to be advised by Prof. [Byron Yu](https://users.ece.cmu.edu/~byronyu/index.html), Prof. [Matthew Smith](https://smithlab.net/), and Prof. [Brent Doiron](https://brainmath.bsd.uchicago.edu/). My main research topic is machine learning algorithms for optimizing spiking network models to generate realistic neuronal activity. I have also worked with Prof. [Leila Wehbe](https://www.cs.cmu.edu/~lwehbe/publications.html) and Prof. [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas/) on individual identification and privacy in brain recordings, and Prof. [Woody Zhu](https://sites.google.com/view/woodyzhu/home?authuser=0) on generative models and causal inference. 
+I graduated with a joint Ph.D. between the [Neuroscience Institute](https://www.cmu.edu/ni/) 🧠  and the [Machine Learning Department](https://www.ml.cmu.edu/) from CMU. I was fortunate to be advised by Prof. [Byron Yu](https://users.ece.cmu.edu/~byronyu/index.html), Prof. [Matthew Smith](https://smithlab.net/), and Prof. [Brent Doiron](https://brainmath.bsd.uchicago.edu/). My main research topic is machine learning algorithms for optimizing spiking network models to generate realistic neuronal activity. I have also worked with Prof. [Leila Wehbe](https://www.cs.cmu.edu/~lwehbe/publications.html) and Prof. [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas/) on individual identification and privacy in brain recordings, and Prof. [Woody Zhu](https://sites.google.com/view/woodyzhu/home?authuser=0) on generative models and causal inference. 
 
 Before coming to CMU, I obtained a bachelor's degree in mathematics and statistics from Columbia University, where I worked with Prof. [Liam Paninski](http://www.stat.columbia.edu/~liam/) on a  [machine learning pipeline](https://github.com/paninski-lab/yass)  for neural signal processing. I have also spent two wonderful years in Hong Kong, where I studied computing mathematics at City University of Hong Kong, before enrolling in the  [joint bachelor's degree program](https://cityu-hk.gs.columbia.edu/) between CityU and Columbia.
 
@@ -41,7 +42,7 @@ Journal Publications and preprints
 _Keywords_: Bayesian optimization, dimensionality reduction, spiking neural networks, brain-computer interface.
     
     
-📄 Brainprints: identifying individuals from magnetoencephalograms. (Communications Biology 2022) [Paper](https://www.nature.com/articles/s42003-022-03727-9)  [Code](https://github.com/brainML/brainprint)  
+📄 Brainprints: identifying individuals from magnetoencephalograms. (Nather Communications Biology 2022) [Paper](https://www.nature.com/articles/s42003-022-03727-9)  [Code](https://github.com/brainML/brainprint)  
 <small> **Shenghao Wu**, Aaditya Ramdas, Leila Wehbe</small>  
 _Keywords_: neuroimaging, privacy, feature engineering, multi-modal recordings.
 
@@ -52,7 +53,7 @@ _Keywords_: signal processing, convolutional neural networks, generative models,
 Conference Publications and presentations
 =======
 
-📄 Counterfactual Generative Models for Time-Varying Treatments. (KDD 2024; Spotlight, Deep Generative Models for Health (DGM4H) Workshop at NeurIPS 2023.) [Paper](https://arxiv.org/abs/2305.15742)  
+📄 Counterfactual Generative Models for Time-Varying Treatments. (KDD 2024; Spotlight, NeurIPS 2023 Deep Generative Models for Health (DGM4H) Workshop.) [Paper](https://arxiv.org/abs/2305.15742)  
 <small>  **Shenghao Wu**, Wenbin Zhou, Minshuo Chen, Shixiang Zhu </small>  
 _Keywords_: generative models, causal inference, time series, counterfactual prediction.
 
@@ -78,5 +79,5 @@ _Keywords_: graph neural networks, reinforcement learning, molecular dynamics.
 Services
 =======
 
-**PC Member**: Neurips AI4Science Workshop (2023), Neurips Generative AI & Biology Workshop (2023),  KDD (2023), Brain Informatics (2023), ACAIN (2021, 2022, 2023)  
-**Journal Reviewer** : Information Fusion 
+**PC Member**: Neurips (2024), KDD (2024, 2023), Neurips AI4Science Workshop (2023), Neurips Generative AI & Biology Workshop (2023), Brain Informatics (2023), ACAIN (2021, 2022, 2023)  
+**Journal Reviewer** : Information Fusion, Neurocomputing
