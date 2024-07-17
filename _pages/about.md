@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[Update Dec 2023] I am now a research scientist on AI for Science at Tiktok (Bytedance).
+[Update Dec 2023] I recently joined Tiktok (Bytedance) as a research scientist on AI for Science.
 
 I graduated with a joint Ph.D. between the [Neuroscience Institute](https://www.cmu.edu/ni/) 🧠  and the [Machine Learning Department](https://www.ml.cmu.edu/) from CMU. I was fortunate to be advised by Prof. [Byron Yu](https://users.ece.cmu.edu/~byronyu/index.html), Prof. [Matthew Smith](https://smithlab.net/), and Prof. [Brent Doiron](https://brainmath.bsd.uchicago.edu/). My main research topic is machine learning algorithms for optimizing spiking network models to generate realistic neuronal activity. I have also worked with Prof. [Leila Wehbe](https://www.cs.cmu.edu/~lwehbe/publications.html) and Prof. [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas/) on individual identification and privacy in brain recordings, and Prof. [Woody Zhu](https://sites.google.com/view/woodyzhu/home?authuser=0) on generative models and causal inference. 
 
@@ -15,11 +15,13 @@ Before coming to CMU, I obtained a bachelor's degree in mathematics and statisti
 
 Education
 =======
-Ph.D. in Neural Computation and Machine Learning, Carnegie Mellon University, 2018-2023 (expected in Dec)
+Ph.D. in Neural Computation and Machine Learning, Carnegie Mellon University, 2018-2023
  
-  <small>Thesis committee: Byron Yu, Matthew Smith, Brent Doiron, Chengcheng Huang, Robert Kass, Tatiana Engel </small>
+<small>Thesis committee: Byron Yu, Matthew Smith, Brent Doiron, Chengcheng Huang, Robert Kass, Tatiana Engel</small>
 
 B.A. in Mathematics-Statistics, Columbia University, 2015-2018
+
+<small>Summa Cum Laude, Phi Beta Kappa, Statistics Department Honour</small>
 
 B.S. in Computing Mathematics, City University of Hong Kong, 2013-2015  
 
@@ -27,33 +29,41 @@ B.S. in Computing Mathematics, City University of Hong Kong, 2013-2015
 Work Experience
 =======
 Research Scientist Intern, Applied Machine Learning Group, Tiktok (ByteDance), 2022  
- <small>Developed a reinforcement learning framework based on graph neural networks to accelerate molecular simulation. </small>
+<small>Developed a reinforcement learning framework based on graph neural networks to accelerate molecular simulation. </small>
 
 Research Interests
 =======
 My research interests lie at the intersection of machine learning and neuroscience. I work closely with experimentalists and develop machine learning tools to study the neuronal mechanisms of brain function. I have developed statistical and machine learning methods using generative models, spiking neural networks, Bayesian optimization, and reinforcement learning. Besides neuroscience, I have also worked on projects with applications in health care and scientific computing.
 
+Preprints
+=======
+📄 Deconstructing The Ethics of Large Language Models from Long-standing Issues to New-emerging Dilemmas. [Paper](https://arxiv.org/pdf/2406.05392)    
+<small>Chengyuan Deng, Yiqun Duan, Xin Jin, Heng Chang, Yijun Tian, Han Liu, Henry Peng Zou, Yiqiao Jin, Yijia Xiao, Yichen Wang, **Shenghao Wu**, Zongxing Xie, Kuofeng Gao, Sihong He, Jun Zhuang, Lu Cheng, Haohan Wang</small>   
+_Keywords_: large language models , differential privacy, security.
+
+📄 YASS: Yet Another Spike Sorter applied to large-scale multi-electrode array recordings in primate retina. [Paper](https://www.biorxiv.org/content/10.1101/2020.03.18.997924v1.full.pdf)  [Code](https://github.com/paninski-lab/yass)  
+<small> JinHyung Lee, Catalin Mitelut, Hooshmand Shokri, Ian Kinsella, Nishchal Dethe, **Shenghao Wu**, Kevin Li, Eduardo Blancas Reyes, Denis Turcu, Eleanor Batty, Young Joon Kim, Nora Brackbill, Alexandra Kling, Georges Goetz, E.J. Chichilnisky, David Carlson, Liam Paninski</small>   
+_Keywords_: signal processing, convolutional neural networks, generative models, spike sorting.
+
+
 
 Journal Publications and preprints
 =======
 
-📄 Automated customization of large-scale spiking network models to neuronal population activity. (Under review)  [Paper](https://www.biorxiv.org/content/10.1101/2023.09.21.558920v1)  
+📄 Automated customization of large-scale spiking network models to neuronal population activity. (Nature Computational Science, in press)  [Paper](https://www.biorxiv.org/content/10.1101/2023.09.21.558920v1)  
 <small>**Shenghao Wu**, Chengcheng Huang, Adam Snyder, Matthew Smith, Brent Doiron, Byron Yu </small>  
-_Keywords_: Bayesian optimization, dimensionality reduction, spiking neural networks, brain-computer interface.
+_Keywords_: Bayesian optimization, dimensionality reduction, spatiotemporal data, spiking neural networks, brain-computer interface.
     
     
-📄 Brainprints: identifying individuals from magnetoencephalograms. (Nather Communications Biology 2022) [Paper](https://www.nature.com/articles/s42003-022-03727-9)  [Code](https://github.com/brainML/brainprint)  
+📄 Brainprints: identifying individuals from magnetoencephalograms. (Nather Communications Biology) [Paper](https://www.nature.com/articles/s42003-022-03727-9)  [Code](https://github.com/brainML/brainprint)  
 <small> **Shenghao Wu**, Aaditya Ramdas, Leila Wehbe</small>  
 _Keywords_: neuroimaging, privacy, feature engineering, multi-modal recordings.
 
-📄 YASS: Yet Another Spike Sorter applied to large-scale multi-electrode array recordings in primate retina.  (In submission) [Paper](https://www.biorxiv.org/content/10.1101/2020.03.18.997924v1.full.pdf)  [Code](https://github.com/paninski-lab/yass)  
-<small> JinHyung Lee, Catalin Mitelut, Hooshmand Shokri, Ian Kinsella, Nishchal Dethe, **Shenghao Wu**, Kevin Li, Eduardo Blancas Reyes, Denis Turcu, Eleanor Batty, Young Joon Kim, Nora Brackbill, Alexandra Kling, Georges Goetz, E.J. Chichilnisky, David Carlson, Liam Paninski</small>   
-_Keywords_: signal processing, convolutional neural networks, generative models, spike sorting.
 
 Conference Publications and presentations
 =======
 
-📄 Counterfactual Generative Models for Time-Varying Treatments. (KDD 2024; Spotlight, NeurIPS 2023 Deep Generative Models for Health (DGM4H) Workshop.) [Paper](https://arxiv.org/abs/2305.15742)  
+📄 Counterfactual Generative Models for Time-Varying Treatments. (KDD 2024 (talk); Spotlight, NeurIPS 2023 Deep Generative Models for Health (DGM4H) Workshop.) [Paper](https://arxiv.org/abs/2305.15742)  
 <small>  **Shenghao Wu**, Wenbin Zhou, Minshuo Chen, Shixiang Zhu </small>  
 _Keywords_: generative models, causal inference, time series, counterfactual prediction.
 
