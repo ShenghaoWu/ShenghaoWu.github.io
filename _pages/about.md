@@ -1,4 +1,4 @@
- ---
+---
 permalink: /
 title: "Shenghao Wu "
 excerpt: "About me"
@@ -93,5 +93,5 @@ _Keywords_: graph neural networks, reinforcement learning, molecular dynamics.
 Services
 =======
 
-**PC Member**: Neurips (2024), KDD (2024, 2023), ICML/Neurips AI4Science Workshop (2024, 2023), Neurips Generative AI & Biology Workshop (2023), Brain Informatics (2023), ACAIN (2021, 2022, 2023)  
-**Journal Reviewer** : Information Fusion, Neurocomputing
+**PC Member**: Neurips (2024), KDD (2024, 2023), ICML/Neurips AI4Science Workshop (2024, 2023), Neurips Generative AI & Biology Workshop (2023), Brain Informatics (2023), ACAIN (2021, 2022, 2023)  .
+**Journal Reviewer** : Nature Communications Biology, Neurocomputing, Information Fusion.
