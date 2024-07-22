@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shenghao Wu "
+title: "Shenghao Wu"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -61,22 +61,22 @@ _Keywords_: Bayesian optimization, dimensionality reduction, spatiotemporal data
     
 📄 Brainprints: identifying individuals from magnetoencephalograms. (Nature Communications Biology) [Paper](https://www.nature.com/articles/s42003-022-03727-9)  [Code](https://github.com/brainML/brainprint)  
 <small> **Shenghao Wu**, Aaditya Ramdas, Leila Wehbe</small>  
-_Keywords_: neuroimaging, privacy, feature engineering, multi-modal recordings.
+_Keywords_: neuroimaging, data privacy, feature engineering, multi-modal recordings.
 
 
 Conference Publications and Presentations
 =======
 
-📄 Counterfactual Generative Models for Time-Varying Treatments. (KDD 2024 (talk); Spotlight, NeurIPS 2023 Deep Generative Models for Health (DGM4H) Workshop.) [Paper](https://arxiv.org/abs/2305.15742)  
+📄 Counterfactual Generative Models for Time-Varying Treatments. (KDD 2024, talk; NeurIPS 2023 Deep Generative Models for Health Workshop, spotlight.) [Paper](https://arxiv.org/abs/2305.15742)  
 <small>  **Shenghao Wu**, Wenbin Zhou, Minshuo Chen, Shixiang Zhu </small>  
-_Keywords_: generative models, causal inference, time series, counterfactual prediction.
+_Keywords_: diffusion models, causal inference, longitudinal data, counterfactual prediction.
 
 📄 Interpreting area-to-area differences in spiking variability using spiking network models. (Society for Neuroscience, 2023)  
 <small> **Shenghao Wu**, Adam Snyder, Chengcheng Huang, Matthew Smith, Byron Yu,  Brent Doiron</small>  
-_Keywords_: deep neural emulators, mechanistic models.
+_Keywords_: deep neural emulators, mechanistic models, spiking neural networks.
 
 
-📄 RLCG: When Reinforcement Learning Meets Coarse Graining. (Neurips AI4Science Workshop 2022) [Paper](https://openreview.net/pdf?id=XD6BnJO7PW)  
+📄 RLCG: When Reinforcement Learning Meets Coarse Graining. (Neurips 2022 AI4Science Workshop) [Paper](https://openreview.net/pdf?id=XD6BnJO7PW)  
 <small> **Shenghao Wu**, Tianyi Liu, Zhirui Wang, Wen Yan, Yingxiang Yang</small>  
 _Keywords_: graph neural networks, reinforcement learning, molecular dynamics.
 
@@ -93,5 +93,5 @@ _Keywords_: graph neural networks, reinforcement learning, molecular dynamics.
 Services
 =======
 
-**PC Member**: Neurips (2024), KDD (2024, 2023), ICML/Neurips AI4Science Workshop (2024, 2023), Neurips Generative AI & Biology Workshop (2023), Brain Informatics (2023), ACAIN (2021, 2022, 2023)  .
+**PC Member**: Neurips (2024), KDD (2024, 2023), ICML/Neurips AI4Science Workshop (2024, 2023), Neurips Generative AI & Biology Workshop (2023), Brain Informatics (2023), ACAIN (2021, 2022, 2023).
 **Journal Reviewer** : Nature Communications Biology, Neurocomputing, Information Fusion.
