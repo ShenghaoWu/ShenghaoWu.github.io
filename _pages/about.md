@@ -9,7 +9,7 @@ redirect_from:
 ---
 [Update Dec 2023] I recently joined Tiktok (Bytedance) as a research scientist working on AI for Science.
 
-I graduated with a joint Ph.D. between the [Neuroscience Institute](https://www.cmu.edu/ni/) 🧠  and the [Machine Learning Department](https://www.ml.cmu.edu/) from CMU. I was fortunate to be advised by Prof. [Byron Yu](https://users.ece.cmu.edu/~byronyu/index.html), Prof. [Matthew Smith](https://smithlab.net/), and Prof. [Brent Doiron](https://brainmath.bsd.uchicago.edu/). My main research topic is machine learning algorithms for optimizing spiking network models to generate realistic neuronal activity. I have also worked with Prof. [Leila Wehbe](https://www.cs.cmu.edu/~lwehbe/publications.html) and Prof. [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas/) on individual identification and privacy in brain recordings, and Prof. [Woody Zhu](https://sites.google.com/view/woodyzhu/home?authuser=0) on generative models and causal inference. 
+I graduated with a joint Ph.D. between the [Neuroscience Institute](https://www.cmu.edu/ni/) 🧠  and the [Machine Learning Department](https://www.ml.cmu.edu/) from CMU. I was fortunate to be advised by Prof. [Byron Yu](https://users.ece.cmu.edu/~byronyu/index.html), Prof. [Matthew Smith](https://smithlab.net/), and Prof. [Brent Doiron](https://brainmath.bsd.uchicago.edu/). I have been working on machine learning algorithms to automate and accelerate scientific discovery and decision-making processes. I have also worked with Prof. [Leila Wehbe](https://www.cs.cmu.edu/~lwehbe/publications.html) and Prof. [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas/) on individual identification and privacy in brain recordings, and Prof. [Woody Zhu](https://sites.google.com/view/woodyzhu/home?authuser=0) on generative models and causal inference. 
 
 Before coming to CMU, I obtained a bachelor's degree in mathematics and statistics from Columbia University, where I worked with Prof. [Liam Paninski](http://www.stat.columbia.edu/~liam/) on a  [machine learning pipeline](https://github.com/paninski-lab/yass)  for neural signal processing. I have also spent two wonderful years in Hong Kong, where I studied computing mathematics at City University of Hong Kong, before enrolling in the  [joint bachelor's degree program](https://cityu-hk.gs.columbia.edu/) between CityU and Columbia.
 
@@ -37,7 +37,7 @@ Research Scientist Intern, Applied Machine Learning Group, Tiktok (ByteDance), 2
 
 Research Interests
 =======
-My research interests lie at the intersection of machine learning and science. I work closely with experimentalists and develop machine learning algorithms (e.g. generative models, Bayesian optimization, reinforcement learning) with applications in neuroscience (e.g. brain circuit modeling), health care (e.g. longitudinal causal inference), and scientific computing (e.g. molecule graph partition). 
+My research interests lie at the intersection of machine learning and science. I work closely with experimentalists and develop ML algorithms (e.g. generative models, Bayesian optimization, reinforcement learning, causal inference) with applications in neuroscience (e.g. brain circuit modeling), health care (e.g. generative decision making), and scientific computing (e.g. molecule graph partition). 
 
 Preprints
 =======
@@ -54,7 +54,7 @@ _Keywords_: signal processing, convolutional neural networks, generative models,
 Journal Publications
 =======
 
-📄 Automated customization of large-scale spiking network models to neuronal population activity. (Nature Computational Science, in press)  [Paper](https://www.biorxiv.org/content/10.1101/2023.09.21.558920v1)  
+📄 Automated customization of large-scale spiking network models to neuronal population activity. (Nature Computational Science, in press)  [Paper](https://www.biorxiv.org/content/10.1101/2023.09.21.558920v1)  [Code](https://github.com/ShenghaoWu/SpikingNetworkOptimization)  
 <small>**Shenghao Wu**, Chengcheng Huang, Adam Snyder, Matthew Smith, Brent Doiron, Byron Yu </small>  
 _Keywords_: Bayesian optimization, dimensionality reduction, spatiotemporal data, spiking neural networks, brain-computer interface.
     
@@ -67,7 +67,7 @@ _Keywords_: neuroimaging, data privacy, feature engineering, multi-modal recordi
 Conference Publications and Presentations
 =======
 
-📄 Counterfactual Generative Models for Time-Varying Treatments. (KDD 2024, talk; NeurIPS 2023 Deep Generative Models for Health Workshop, spotlight.) [Paper](https://arxiv.org/abs/2305.15742)  
+📄 Counterfactual Generative Models for Time-Varying Treatments. (KDD 2024, talk; NeurIPS 2023 Deep Generative Models for Health Workshop, spotlight.) [Paper](https://arxiv.org/abs/2305.15742)   [Code](https://github.com/ShenghaoWu/Counterfactual-Generative-Models)  
 <small>  **Shenghao Wu**, Wenbin Zhou, Minshuo Chen, Shixiang Zhu </small>  
 _Keywords_: diffusion models, causal inference, longitudinal data, counterfactual prediction.
 
@@ -94,4 +94,5 @@ Services
 =======
 
 **PC Member**: Neurips (2024), KDD (2024, 2023), ICML/Neurips AI4Science Workshop (2024, 2023), Neurips Generative AI & Biology Workshop (2023), Brain Informatics (2023), ACAIN (2021, 2022, 2023).
+
 **Journal Reviewer** : Nature Communications Biology, Neurocomputing, Information Fusion.
