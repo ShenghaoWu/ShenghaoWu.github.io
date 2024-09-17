@@ -54,7 +54,7 @@ _Keywords_: signal processing, convolutional neural networks, generative models,
 Journal Publications
 =======
 
-📄 Automated customization of large-scale spiking network models to neuronal population activity. (Nature Computational Science, in press)  [Paper](https://www.biorxiv.org/content/10.1101/2023.09.21.558920v1)  [Code](https://github.com/ShenghaoWu/SpikingNetworkOptimization)  
+📄 Automated customization of large-scale spiking network models to neuronal population activity. (Nature Computational Science)  [Paper](https://www.nature.com/articles/s43588-024-00688-3)  [Code](https://github.com/ShenghaoWu/SpikingNetworkOptimization)  
 <small>**Shenghao Wu**, Chengcheng Huang, Adam Snyder, Matthew Smith, Brent Doiron, Byron Yu </small>  
 _Keywords_: Bayesian optimization, dimensionality reduction, spatiotemporal data, spiking neural networks, brain-computer interface.
     
