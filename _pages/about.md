@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[Update Dec 2023] I recently joined Tiktok (Bytedance) as a research scientist working on AI for Science.
+[Update Jan 2025] I recently joined Amazon as a research scientist to work on AI + decision-making.
 
 I graduated with a joint Ph.D. between the [Neuroscience Institute](https://www.cmu.edu/ni/) 🧠  and the [Machine Learning Department](https://www.ml.cmu.edu/) from CMU. I was fortunate to be advised by Prof. [Byron Yu](https://users.ece.cmu.edu/~byronyu/index.html), Prof. [Matthew Smith](https://smithlab.net/), and Prof. [Brent Doiron](https://brainmath.bsd.uchicago.edu/). I have been working on machine learning algorithms to automate and accelerate scientific discovery and decision-making processes. I have also worked with Prof. [Leila Wehbe](https://www.cs.cmu.edu/~lwehbe/publications.html) and Prof. [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas/) on individual identification and privacy in brain recordings, and Prof. [Woody Zhu](https://sites.google.com/view/woodyzhu/home?authuser=0) on generative models and causal inference. 
 
@@ -29,7 +29,12 @@ B.S. in Computing Mathematics, City University of Hong Kong, 2013-2015
 
 Work Experience
 =======
-Research Scientist, Machine Learning for Science, Tiktok (ByteDance), 2023-Now  
+
+Research Scientist, Amazon, 2025-Now  
+<small>AI for decision-making at Amazon scale. </small>
+
+
+Research Scientist, Machine Learning for Science, Tiktok (ByteDance), 2023-2025  
 <small>Deep learning for computational biology. </small>
 
 Research Scientist Intern, Applied Machine Learning Group, Tiktok (ByteDance), 2022  
@@ -41,6 +46,10 @@ My research interests lie at the intersection of machine learning and science. I
 
 Preprints
 =======
+📄 Protenix - Advancing Structure Prediction Through a Comprehensive AlphaFold3 Reproduction. [Paper](https://arxiv.org/pdf/2406.05392) [Code](https://github.com/bytedance/Protenix/tree/main)  
+<small>ByteDance AML AI4Science Team, Xinshi Chen, Yuxuan Zhang, Chan Lu, Wenzhi Ma, Jiaqi Guan, Chengyue Gong, Jincai Yang, Hanyu Zhang, Ke Zhang, **Shenghao Wu**, Kuangqi Zhou, Yanping Yang, Zhenyu Liu, Lan Wang, Bo Shi, Shaochen Shi, Wenzhi Xiao</small>   
+_Keywords_: foundation model, genAI, AI4Science.
+
 📄 Deconstructing The Ethics of Large Language Models from Long-standing Issues to New-emerging Dilemmas. [Paper](https://arxiv.org/pdf/2406.05392)    
 <small>Chengyuan Deng, Yiqun Duan, Xin Jin, Heng Chang, Yijun Tian, Han Liu, Henry Peng Zou, Yiqiao Jin, Yijia Xiao, Yichen Wang, **Shenghao Wu**, Zongxing Xie, Kuofeng Gao, Sihong He, Jun Zhuang, Lu Cheng, Haohan Wang</small>   
 _Keywords_: large language models, differential privacy, security.
