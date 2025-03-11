@@ -75,6 +75,9 @@ _Keywords_: neuroimaging, data privacy, feature engineering, multi-modal recordi
 
 Conference Publications and Presentations
 =======
+📄 Perceptual Inductive Bias Is What You Need Before Contrastive Learning. (CVPR 2025, accepted.)  
+<small>  Junru Zhao, Tianqin Li, Dunhan Jiang, **Shenghao Wu**, Alan Ramirez, Tai Sing Lee </small>  
+_Keywords_: computer vision, biology inspired algorithm, contrastive learning, pretraining.
 
 📄 Counterfactual Generative Models for Time-Varying Treatments. (KDD 2024, talk; NeurIPS 2023 Deep Generative Models for Health Workshop, spotlight.) [Paper](https://arxiv.org/abs/2305.15742)   [Code](https://github.com/ShenghaoWu/Counterfactual-Generative-Models)  
 <small>  **Shenghao Wu**, Wenbin Zhou, Minshuo Chen, Shixiang Zhu </small>  
