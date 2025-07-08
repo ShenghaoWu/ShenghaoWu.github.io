@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[Update Jan 2025] I recently joined Amazon as a research scientist to work on AI + decision-making.
+[Update Jan 2025] I recently joined Amazon AGI as an applied scientist to work on post-training of Nova, Amazon's multi-modal foundation model.
 
 I graduated with a joint Ph.D. between the [Neuroscience Institute](https://www.cmu.edu/ni/) 🧠  and the [Machine Learning Department](https://www.ml.cmu.edu/) from CMU. I was fortunate to be advised by Prof. [Byron Yu](https://users.ece.cmu.edu/~byronyu/index.html), Prof. [Matthew Smith](https://smithlab.net/), and Prof. [Brent Doiron](https://brainmath.bsd.uchicago.edu/). I have been working on machine learning algorithms to automate and accelerate scientific discovery and decision-making processes. I have also worked with Prof. [Leila Wehbe](https://www.cs.cmu.edu/~lwehbe/publications.html) and Prof. [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas/) on individual identification and privacy in brain recordings, and Prof. [Woody Zhu](https://sites.google.com/view/woodyzhu/home?authuser=0) on generative models and causal inference. 
 
@@ -30,8 +30,8 @@ B.S. in Computing Mathematics, City University of Hong Kong, 2013-2015
 Work Experience
 =======
 
-Research Scientist, Amazon, 2025-Now  
-<small>AI for decision-making at Amazon scale. </small>
+Applied Scientist, Amazon, 2025-Now  
+<small>Post-training for Nova. </small>
 
 
 Research Scientist, Machine Learning for Science, Tiktok (ByteDance), 2023-2025  
@@ -75,8 +75,8 @@ _Keywords_: neuroimaging, data privacy, feature engineering, multi-modal recordi
 
 Conference Publications and Presentations
 =======
-📄 Perceptual Inductive Bias Is What You Need Before Contrastive Learning. (CVPR 2025, accepted.)  
-<small>  Junru Zhao, Tianqin Li, Dunhan Jiang, **Shenghao Wu**, Alan Ramirez, Tai Sing Lee </small>  
+📄 Perceptual Inductive Bias Is What You Need Before Contrastive Learning. (CVPR 2025) [Paper](https://arxiv.org/pdf/2506.01201)  
+<small> Junru Zhao, Tianqin Li, Dunhan Jiang, **Shenghao Wu**, Alan Ramirez, Tai Sing Lee </small>  
 _Keywords_: computer vision, biology inspired algorithm, contrastive learning, pretraining.
 
 📄 Counterfactual Generative Models for Time-Varying Treatments. (KDD 2024, talk; NeurIPS 2023 Deep Generative Models for Health Workshop, spotlight.) [Paper](https://arxiv.org/abs/2305.15742)   [Code](https://github.com/ShenghaoWu/Counterfactual-Generative-Models)  
