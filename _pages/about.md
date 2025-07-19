@@ -30,12 +30,12 @@ B.S. in Computing Mathematics, City University of Hong Kong, 2013-2015
 Work Experience
 =======
 
-Applied Scientist, Amazon, 2025-Now  
+Applied Scientist, Amazon AGI, 2025-Now  
 <small>Post-training for Nova. </small>
 
 
-Research Scientist, Machine Learning for Science, Tiktok (ByteDance), 2023-2025  
-<small>Deep learning for computational biology. </small>
+Research Scientist, ByteDance Seed AI-for-Science, 2023-2025  
+<small>Pre-training foundation model for protein structure prediction. </small>
 
 Research Scientist Intern, Applied Machine Learning Group, Tiktok (ByteDance), 2022  
 <small>Developed a reinforcement learning framework based on graph neural networks to accelerate molecular simulation. </small>
