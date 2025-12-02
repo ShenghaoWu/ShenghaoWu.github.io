@@ -59,11 +59,6 @@ Before CMU, I studied mathematics and statistics at Columbia University, working
 <small>ByteDance AML AI4Science Team, Xinshi Chen, Yuxuan Zhang, Chan Lu, Wenzhi Ma, Jiaqi Guan, Chengyue Gong, Jincai Yang, Hanyu Zhang, Ke Zhang, **Shenghao Wu**, Kuangqi Zhou, Yanping Yang, Zhenyu Liu, Lan Wang, Bo Shi, Shaochen Shi, Wenzhi Xiao</small>  
 *Keywords*: foundation model, diffusion transformer, AI4Science.
 
-📄 **Deconstructing The Ethics of Large Language Models From Long-standing Issues to New-emerging Dilemmas.**  
-[Paper](https://arxiv.org/pdf/2406.05392)  
-<small>Chengyuan Deng, Yiqun Duan, Xin Jin, Heng Chang, Yijun Tian, Han Liu, Henry Peng Zou, Yiqiao Jin, Yijia Xiao, Yichen Wang, **Shenghao Wu**, Zongxing Xie, Kuofeng Gao, Sihong He, Jun Zhuang, Lu Cheng, Haohan Wang</small>  
-*Keywords*: large language models, differential privacy, security.
-
 📄 **YASS: Yet Another Spike Sorter applied to large-scale multi-electrode array recordings in primate retina.**  
 [Paper](https://www.biorxiv.org/content/10.1101/2020.03.18.997924v1.full.pdf) · [Code](https://github.com/paninski-lab/yass)  
 <small>JinHyung Lee, Catalin Mitelut, Hooshmand Shokri, Ian Kinsella, Nishchal Dethe, **Shenghao Wu**, Kevin Li, Eduardo Blancas Reyes, Denis Turcu, Eleanor Batty, Young Joon Kim, Nora Brackbill, Alexandra Kling, Georges Goetz, E.J. Chichilnisky, David Carlson, Liam Paninski</small>  
@@ -73,6 +68,13 @@ Before CMU, I studied mathematics and statistics at Columbia University, working
 ---
 
 # Journal Publications
+
+📄 **Deconstructing The Ethics of Large Language Models From Long-standing Issues to New-emerging Dilemmas.**  
+*AI and Ethics*  
+[Paper](https://link.springer.com/article/10.1007/s43681-025-00797-3)  
+<small>Chengyuan Deng, Yiqun Duan, Xin Jin, Heng Chang, Yijun Tian, Han Liu, Henry Peng Zou, Yiqiao Jin, Yijia Xiao, Yichen Wang, **Shenghao Wu**, Zongxing Xie, Kuofeng Gao, Sihong He, Jun Zhuang, Lu Cheng, Haohan Wang</small>  
+*Keywords*: LLM, differential privacy, security.
+
 
 📄 **Automated customization of large-scale spiking network models to neuronal population activity.**  
 *Nature Computational Science*  
