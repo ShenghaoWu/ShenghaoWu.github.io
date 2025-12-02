@@ -7,18 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 --- 
-I am a scientist @   Amazon AGI Foundation, we recently launched
-[Nova 2](https://assets.amazon.science/02/f5/c7dd40b3435898b7019ed716de98/nova-2-technical-report.pdf), Amazon's unified multimodal foundation model.
 
-I graduated with a joint Ph.D. between the  
-[Machine Learning Department](https://www.ml.cmu.edu/) and the [Neuroscience Institute](https://www.cmu.edu/ni/) 🧠 at CMU.  
-I was fortunate to be advised by Prof. [Byron Yu](https://users.ece.cmu.edu/~byronyu/index.html), Prof. [Matthew Smith](https://smithlab.net/), and Prof. [Brent Doiron](https://brainmath.bsd.uchicago.edu/).  
+I am a scientist at Amazon AGI Foundation, we recently launched
+[Nova 2](https://assets.amazon.science/02/f5/c7dd40b3435898b7019ed716de98/nova-2-technical-report.pdf), Amazon’s unified multimodal foundation model.
 
-I have been working on machine learning algorithms to automate and accelerate scientific discovery and decision-making processes.  
-I have also worked with Prof. [Leila Wehbe](https://www.cs.cmu.edu/~lwehbe/publications.html) and Prof. [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas/) on neural data processing, and Prof. [Woody Zhu](https://sites.google.com/view/woodyzhu/home?authuser=0) on causal diffusion models.
+I obtained a Ph.D. from CMU’s  
+[Machine Learning Department](https://www.ml.cmu.edu/) and [Neuroscience Institute](https://www.cmu.edu/ni/) 🧠, advised by Prof. [Byron Yu](https://users.ece.cmu.edu/~byronyu/index.html), Prof. [Matthew Smith](https://smithlab.net/), and Prof. [Brent Doiron](https://brainmath.bsd.uchicago.edu/). My research focused on machine learning methods for accelerating scientific discovery and decision-making. I have also collaborated with Prof. [Leila Wehbe](https://www.cs.cmu.edu/~lwehbe/publications.html) and Prof. [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas/) on neural data analysis, and with Prof. [Woody Zhu](https://sites.google.com/view/woodyzhu/home?authuser=0) on causal diffusion models.
 
-Before coming to CMU, I obtained a bachelor's degree in mathematics and statistics from Columbia University, where I worked with Prof. [Liam Paninski](http://www.stat.columbia.edu/~liam/) on a [machine learning pipeline](https://github.com/paninski-lab/yass) for neural signal processing.  
-I also spent two wonderful years in Hong Kong studying computing mathematics at City University of Hong Kong, before enrolling in the [joint bachelor's degree program](https://cityu-hk.gs.columbia.edu/) between CityU and Columbia.
+Before CMU, I studied mathematics and statistics at Columbia University, working with Prof. [Liam Paninski](http://www.stat.columbia.edu/~liam/) on a [machine learning pipeline](https://github.com/paninski-lab/yass) for neural signal processing. I also spent two years studying computing mathematics at City University of Hong Kong before entering the [CityU–Columbia joint degree program](https://cityu-hk.gs.columbia.edu/).
+
 
 
 ---
