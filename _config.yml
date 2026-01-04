@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shenghao Wu / Ph.D. student at CMU"
 title_separator          : "-"
 name                     : &name "Shenghao Wu"
-description              : &description "Ph.D. student in Neural computation and Machine Learning at CMU"
+description              : &description "Scientist @ Amazon AGI, Ph.D. in Machine Learning and Neural Comp @ CMU"
 url                      : https://ShenghaoWu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "ShenghaoWu.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "ShenghaoWu/ShenghaoWu.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Shenghao Wu"
   avatar           : "profile.png"
-  bio              : "Ph.D. student in Neural computation and Machine Learning, Carnegie Mellon University"
-  location         : "Pittsburgh, PA"
+  bio              : "Applied Scientist @ Amazon AGI Foundation"
+  location         : "Bellevue, WA"
   employer         :
   #pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oQgX3EEAAAAJ&hl=en&oi=ao"
