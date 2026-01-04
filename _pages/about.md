@@ -11,7 +11,7 @@ redirect_from:
 I am a scientist at Amazon AGI Foundation, we recently launched
 [Nova 2](https://assets.amazon.science/02/f5/c7dd40b3435898b7019ed716de98/nova-2-technical-report.pdf), Amazon’s unified multimodal foundation model.
 
-I obtained a Ph.D. from CMU’s  
+I obtained a Ph.D. from CMU’s
 [Machine Learning Department](https://www.ml.cmu.edu/) and [Neuroscience Institute](https://www.cmu.edu/ni/) 🧠, advised by Prof. [Byron Yu](https://users.ece.cmu.edu/~byronyu/index.html), Prof. [Matthew Smith](https://smithlab.net/), and Prof. [Brent Doiron](https://brainmath.bsd.uchicago.edu/). My research focused on machine learning methods for accelerating scientific discovery and decision-making. I have also collaborated with Prof. [Leila Wehbe](https://www.cs.cmu.edu/~lwehbe/publications.html) and Prof. [Aaditya Ramdas](http://www.stat.cmu.edu/~aramdas/) on neural data analysis, and with Prof. [Woody Zhu](https://sites.google.com/view/woodyzhu/home?authuser=0) on causal diffusion models.
 
 Before CMU, I studied mathematics and statistics at Columbia University, working with Prof. [Liam Paninski](http://www.stat.columbia.edu/~liam/) on a [machine learning pipeline](https://github.com/paninski-lab/yass) for neural signal processing. I also spent two years studying computing mathematics at City University of Hong Kong before entering the [CityU–Columbia joint degree program](https://cityu-hk.gs.columbia.edu/).
